@@ -1,5 +1,5 @@
 config BR2_PACKAGE_WIFIDOG
-	prompt "wifidog........................... A wireless captive portal solution"
+	prompt "wifidog........................... A wireless captive portal solution develop"
 	tristate
 	default m if CONFIG_DEVEL
 	select BR2_PACKAGE_LIBPTHREAD
