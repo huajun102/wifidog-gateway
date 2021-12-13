@@ -24,7 +24,7 @@ define Package/wifidog
   SECTION:=net
   CATEGORY:=Network
   DEPENDS:=+iptables-mod-extra +iptables-mod-ipopt +iptables-mod-nat +iptables-mod-nat-extra +libpthread
-  TITLE:=A wireless captive portal solution
+  TITLE:=A wireless captive portal solution develop-kamikazeipk8.09up
   URL:=http://www.wifidog.org
 endef
 
